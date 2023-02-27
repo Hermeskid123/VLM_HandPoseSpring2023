@@ -11,7 +11,7 @@ make project summary
 make main
 
 phase 1:
-build quary system
+build Query system
 
 phase 2:
 build key point system for a single img
