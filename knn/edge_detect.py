@@ -255,6 +255,5 @@ def main():
     plt.imshow(edgeImg, cmap="gray")
     plt.show()
     
-
 if __name__ == "__main__":
     main()
